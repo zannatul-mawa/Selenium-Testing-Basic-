@@ -1,1 +1,1 @@
-# Selenium-Testing-TalhaTraining-
+# Selenium-Testing-Basic-
